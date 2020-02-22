@@ -12,6 +12,7 @@ Install the latest version of npm and node js. Note: I used yarn for my package 
 Run inside of the photo-album root directory
 ```
 npm install -g yarn
+apt install npm
 ```
 
 ### How to run the project
