@@ -1,0 +1,23 @@
+{
+  "name": "photo-album",
+  "version": "1.0.0",
+  "description": "project for lean techniques",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+  "photo-album": "./bin/index.js"
+},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mark Bentley",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
