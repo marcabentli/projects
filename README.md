@@ -1,8 +1,9 @@
-# Lean Techniques Photo Album
+
+## Lean Techniques Photo Album
 
 ### Developer: Mark Bentley
 
-#Information
+### Information
 Technical showcase for lean techniques. The project was developed using Node.js and unit tests created with Chai and Mocha. 
 
 ### How to build the project
@@ -17,8 +18,11 @@ npm install -g yarn
 View a list of photo ids and titles for given album id
 ```
 photo-album - <albumid>
-Ex: photo-album - 2
+
+photo-album - 2
 ``` 
+
+
 ### How to run unit tests
 ```
 npm test
